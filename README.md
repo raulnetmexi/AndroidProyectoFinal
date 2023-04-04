@@ -2,7 +2,7 @@
 App diplomado
 
 #Url del repositorio
-https://github.com/raulnetmexi/purchaseSaleCars
+https://github.com/raulnetmexi/AndroidProyectoFinal
 
 # Apis usada para listado de cliente
 
